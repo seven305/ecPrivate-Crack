@@ -19,7 +19,7 @@
 
 ## SOURCE
 This repository is an official archive of **Seven's Domain**. 
-[RETURN TO MAINFRAME](https://primeadpartners.com)
+[RETURN TO MAINFRAME](https://sevlegend.com))
 
 ## LEGAL
 (C) 2004-2026 SEVEN LEGEND. Distributed for educational and archival purposes only. 
